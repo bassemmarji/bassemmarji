@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @bassemmarji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![image](https://user-images.githubusercontent.com/74184047/115012032-ffa2df80-9eb7-11eb-8e2f-0b5f5a859087.png)
 
-<!---
-bassemmarji/bassemmarji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hello, I am Bassem Marji
+![image](https://user-images.githubusercontent.com/74184047/115012088-10ebec00-9eb8-11eb-8e2d-93be2492b5cd.png)
+
+
+
 I am interested in Python programing
 I appreciate your feedback on my work
 You can reach me on my email bassemmarji@gmail.com
