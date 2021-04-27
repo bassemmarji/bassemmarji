@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/74184047/115114709-fa659380-9f90-11eb-88e9-5f98f89b9be8.png)
-
+![CV Bassem Marji_US](https://user-images.githubusercontent.com/74184047/116267193-7a071580-a77c-11eb-84b0-b44ad914801a.jpg)
 
 I am interested in Python programing.
 
